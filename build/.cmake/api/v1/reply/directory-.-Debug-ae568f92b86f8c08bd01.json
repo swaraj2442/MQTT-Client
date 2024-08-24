@@ -1,0 +1,73 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 96,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 100,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "share/doc/Eclipse Paho C/samples",
+			"paths" : 
+			[
+				"src/samples/MQTTAsync_publish.c",
+				"src/samples/MQTTAsync_publish_time.c",
+				"src/samples/MQTTAsync_subscribe.c",
+				"src/samples/MQTTClient_publish.c",
+				"src/samples/MQTTClient_publish_async.c",
+				"src/samples/MQTTClient_subscribe.c",
+				"src/samples/paho_c_pub.c",
+				"src/samples/paho_c_sub.c",
+				"src/samples/paho_cs_pub.c",
+				"src/samples/paho_cs_sub.c",
+				"src/samples/pubsub_opts.c"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "share/doc/Eclipse Paho C",
+			"paths" : 
+			[
+				"CONTRIBUTING.md",
+				"epl-v20",
+				"edl-v10",
+				"README.md",
+				"notice.html"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

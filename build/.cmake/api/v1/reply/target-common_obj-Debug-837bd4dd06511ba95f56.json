@@ -1,0 +1,348 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTTime.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTProtocolClient.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Clients.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/utf-8.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTPacket.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTPacketOut.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Messages.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Tree.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Socket.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Log.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTPersistence.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Thread.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTProtocolOut.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTPersistenceDefault.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/SocketBuffer.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/LinkedList.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTProperties.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/MQTTReasonCodes.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Base64.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/SHA1.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/WebSocket.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Proxy.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/StackTrace.c.obj"
+		},
+		{
+			"path" : "src/CMakeFiles/common_obj.dir/Heap.c.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"SET_TARGET_PROPERTIES"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 87,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "PAHO_MQTT_EXPORTS=1"
+				},
+				{
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"define" : "_CRT_SECURE_NO_DEPRECATE"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		}
+	],
+	"id" : "common_obj::@145eef247bfb46b6828c",
+	"name" : "common_obj",
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTTime.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTProtocolClient.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Clients.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/utf-8.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTPacket.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTPacketOut.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Messages.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Tree.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Socket.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Log.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTPersistence.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Thread.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTProtocolOut.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTPersistenceDefault.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/SocketBuffer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/LinkedList.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTProperties.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTReasonCodes.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Base64.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/SHA1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/WebSocket.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Proxy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/StackTrace.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/Heap.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\paho-mqtt3c.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\paho-mqtt3c.dir/objects.a @CMakeFiles\paho-mqtt3c.dir\objects1.rsp
+C:\msys64\ucrt64\bin\gcc.exe -g -shared -o libpaho-mqtt3c.dll -Wl,--out-implib,libpaho-mqtt3c.dll.a -Wl,--major-image-version,1,--minor-image-version,3 -Wl,--whole-archive CMakeFiles\paho-mqtt3c.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\paho-mqtt3c.dir\linkLibs.rsp

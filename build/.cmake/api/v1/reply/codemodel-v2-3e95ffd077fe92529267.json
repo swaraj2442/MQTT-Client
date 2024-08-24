@@ -1,0 +1,288 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ae568f92b86f8c08bd01.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-31156b5a28c637e43edd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-f18be1977b403cfd1a50.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Eclipse Paho C",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "mqtt-tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Base64Test::@145eef247bfb46b6828c",
+					"jsonFile" : "target-Base64Test-Debug-362eb6242c7d8bc0e147.json",
+					"name" : "Base64Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "MQTTVersion::@145eef247bfb46b6828c",
+					"jsonFile" : "target-MQTTVersion-Debug-e5938e029f3d907e0d3e.json",
+					"name" : "MQTTVersion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Sha1Test::@145eef247bfb46b6828c",
+					"jsonFile" : "target-Sha1Test-Debug-7bcd238e1b1fef9d2552.json",
+					"name" : "Sha1Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "common_obj::@145eef247bfb46b6828c",
+					"jsonFile" : "target-common_obj-Debug-837bd4dd06511ba95f56.json",
+					"name" : "common_obj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "paho-mqtt3a::@145eef247bfb46b6828c",
+					"jsonFile" : "target-paho-mqtt3a-Debug-46f29cda0884a4c6a811.json",
+					"name" : "paho-mqtt3a",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "paho-mqtt3c::@145eef247bfb46b6828c",
+					"jsonFile" : "target-paho-mqtt3c-Debug-6e655831f5b71e68ff89.json",
+					"name" : "paho-mqtt3c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test1::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test1-Debug-273daeb5885740816259.json",
+					"name" : "test1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test10::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test10-Debug-4fc4e2ce6ae1d8bdcbc2.json",
+					"name" : "test10",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test11::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test11-Debug-5b472ed504bdf3b0c8cd.json",
+					"name" : "test11",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test15::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test15-Debug-c6c0d16c991060a09c9b.json",
+					"name" : "test15",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test2::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test2-Debug-1b5bcb7c49f4910894e1.json",
+					"name" : "test2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test4::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test4-Debug-a82428ee3e54f458b434.json",
+					"name" : "test4",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test45::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test45-Debug-87b1a505579ca5a5f2a9.json",
+					"name" : "test45",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test6::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test6-Debug-fa25f7202717ac547745.json",
+					"name" : "test6",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test8::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test8-Debug-9502a9c5205b2f4bd2e8.json",
+					"name" : "test8",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test9::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test9-Debug-44734cf34cd0ac196a62.json",
+					"name" : "test9",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test95::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test95-Debug-9bc469110223a9f1d6fb.json",
+					"name" : "test95",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_connect_destroy::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_connect_destroy-Debug-c7c8c990ff644c95ba19.json",
+					"name" : "test_connect_destroy",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_issue373::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_issue373-Debug-2a100917d66df9c2742d.json",
+					"name" : "test_issue373",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "test_sync_session_present::@36f028580bb02cc8272a",
+					"jsonFile" : "target-test_sync_session_present-Debug-f2c8aad8b8d70eb02d9c.json",
+					"name" : "test_sync_session_present",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "thread::@36f028580bb02cc8272a",
+					"jsonFile" : "target-thread-Debug-16e1aa6dfab97127185b.json",
+					"name" : "thread",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build",
+		"source" : "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

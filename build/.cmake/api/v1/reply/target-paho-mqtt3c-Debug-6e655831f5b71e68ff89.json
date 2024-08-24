@@ -1,0 +1,365 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "src/libpaho-mqtt3c.dll"
+		},
+		{
+			"path" : "src/libpaho-mqtt3c.dll.a"
+		},
+		{
+			"path" : "src/libpaho-mqtt3c.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"ADD_LIBRARY",
+			"INSTALL",
+			"TARGET_LINK_LIBRARIES",
+			"SET_TARGET_PROPERTIES",
+			"TARGET_INCLUDE_DIRECTORIES"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 111,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 135,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "PAHO_MQTT_EXPORTS=1"
+				},
+				{
+					"define" : "WIN32_LEAN_AND_MEAN"
+				},
+				{
+					"define" : "_CRT_SECURE_NO_DEPRECATE"
+				},
+				{
+					"define" : "paho_mqtt3c_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				24
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "common_obj::@145eef247bfb46b6828c"
+		}
+	],
+	"id" : "paho-mqtt3c::@145eef247bfb46b6828c",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			},
+			{
+				"backtrace" : 2,
+				"path" : "bin"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/Eclipse Paho C"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lcrypt32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lRpcRT4",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "paho-mqtt3c",
+	"nameOnDisk" : "libpaho-mqtt3c.dll",
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Object Libraries",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				24
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTTime.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTProtocolClient.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Clients.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/utf-8.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTPacket.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTPacketOut.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Messages.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Tree.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Socket.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Log.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTPersistence.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Thread.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTProtocolOut.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTPersistenceDefault.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/SocketBuffer.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/LinkedList.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTProperties.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/MQTTReasonCodes.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Base64.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/SHA1.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/WebSocket.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Proxy.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/StackTrace.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src/CMakeFiles/common_obj.dir/Heap.c.obj",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/MQTTClient.c",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

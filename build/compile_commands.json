@@ -1,0 +1,278 @@
+[
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTTime.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTTime.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTTime.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTTime.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTProtocolClient.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTProtocolClient.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTProtocolClient.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTProtocolClient.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Clients.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Clients.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Clients.c",
+  "output": "src/CMakeFiles/common_obj.dir/Clients.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\utf-8.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\utf-8.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/utf-8.c",
+  "output": "src/CMakeFiles/common_obj.dir/utf-8.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTPacket.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTPacket.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTPacket.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTPacket.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTPacketOut.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTPacketOut.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTPacketOut.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTPacketOut.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Messages.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Messages.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Messages.c",
+  "output": "src/CMakeFiles/common_obj.dir/Messages.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Tree.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Tree.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Tree.c",
+  "output": "src/CMakeFiles/common_obj.dir/Tree.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Socket.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Socket.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Socket.c",
+  "output": "src/CMakeFiles/common_obj.dir/Socket.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Log.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Log.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Log.c",
+  "output": "src/CMakeFiles/common_obj.dir/Log.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTPersistence.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTPersistence.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTPersistence.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTPersistence.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Thread.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Thread.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Thread.c",
+  "output": "src/CMakeFiles/common_obj.dir/Thread.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTProtocolOut.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTProtocolOut.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTProtocolOut.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTProtocolOut.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTPersistenceDefault.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTPersistenceDefault.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTPersistenceDefault.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTPersistenceDefault.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\SocketBuffer.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\SocketBuffer.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/SocketBuffer.c",
+  "output": "src/CMakeFiles/common_obj.dir/SocketBuffer.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\LinkedList.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\LinkedList.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/LinkedList.c",
+  "output": "src/CMakeFiles/common_obj.dir/LinkedList.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTProperties.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTProperties.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTProperties.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTProperties.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\MQTTReasonCodes.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTReasonCodes.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTReasonCodes.c",
+  "output": "src/CMakeFiles/common_obj.dir/MQTTReasonCodes.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Base64.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Base64.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Base64.c",
+  "output": "src/CMakeFiles/common_obj.dir/Base64.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\SHA1.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\SHA1.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/SHA1.c",
+  "output": "src/CMakeFiles/common_obj.dir/SHA1.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\WebSocket.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\WebSocket.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/WebSocket.c",
+  "output": "src/CMakeFiles/common_obj.dir/WebSocket.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Proxy.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Proxy.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Proxy.c",
+  "output": "src/CMakeFiles/common_obj.dir/Proxy.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\StackTrace.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\StackTrace.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/StackTrace.c",
+  "output": "src/CMakeFiles/common_obj.dir/StackTrace.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\common_obj.dir\\Heap.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Heap.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Heap.c",
+  "output": "src/CMakeFiles/common_obj.dir/Heap.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE -Dpaho_mqtt3c_EXPORTS @CMakeFiles/paho-mqtt3c.dir/includes_C.rsp -g -o CMakeFiles\\paho-mqtt3c.dir\\MQTTClient.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTClient.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTClient.c",
+  "output": "src/CMakeFiles/paho-mqtt3c.dir/MQTTClient.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE -Dpaho_mqtt3a_EXPORTS @CMakeFiles/paho-mqtt3a.dir/includes_C.rsp -g -o CMakeFiles\\paho-mqtt3a.dir\\MQTTAsync.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTAsync.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTAsync.c",
+  "output": "src/CMakeFiles/paho-mqtt3a.dir/MQTTAsync.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_EXPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE -Dpaho_mqtt3a_EXPORTS @CMakeFiles/paho-mqtt3a.dir/includes_C.rsp -g -o CMakeFiles\\paho-mqtt3a.dir\\MQTTAsyncUtils.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTAsyncUtils.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTAsyncUtils.c",
+  "output": "src/CMakeFiles/paho-mqtt3a.dir/MQTTAsyncUtils.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DPAHO_MQTT_IMPORTS=1 -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/MQTTVersion.dir/includes_C.rsp -g -o CMakeFiles\\MQTTVersion.dir\\MQTTVersion.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\MQTTVersion.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/MQTTVersion.c",
+  "output": "src/CMakeFiles/MQTTVersion.dir/MQTTVersion.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DBASE64_TEST -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\Base64Test.dir\\Base64.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Base64.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Base64.c",
+  "output": "src/CMakeFiles/Base64Test.dir/Base64.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DSHA1_TEST -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE  -g -o CMakeFiles\\Sha1Test.dir\\SHA1.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\SHA1.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/SHA1.c",
+  "output": "src/CMakeFiles/Sha1Test.dir/SHA1.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DNOLOG_MESSAGES -DNOSTACKTRACE -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/thread.dir/includes_C.rsp -g -o CMakeFiles\\thread.dir\\thread.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\thread.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/thread.c",
+  "output": "test/CMakeFiles/thread.dir/thread.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DNOLOG_MESSAGES -DNOSTACKTRACE -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/thread.dir/includes_C.rsp -g -o CMakeFiles\\thread.dir\\__\\src\\Thread.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\src\\Thread.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/src/Thread.c",
+  "output": "test/CMakeFiles/thread.dir/__/src/Thread.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test1.dir/includes_C.rsp -g -o CMakeFiles\\test1.dir\\test1.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test1.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test1.c",
+  "output": "test/CMakeFiles/test1.dir/test1.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test15.dir/includes_C.rsp -g -o CMakeFiles\\test15.dir\\test15.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test15.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test15.c",
+  "output": "test/CMakeFiles/test15.dir/test15.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test2.dir/includes_C.rsp -g -o CMakeFiles\\test2.dir\\test2.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test2.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test2.c",
+  "output": "test/CMakeFiles/test2.dir/test2.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test4.dir/includes_C.rsp -g -o CMakeFiles\\test4.dir\\test4.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test4.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test4.c",
+  "output": "test/CMakeFiles/test4.dir/test4.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test45.dir/includes_C.rsp -g -o CMakeFiles\\test45.dir\\test45.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test45.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test45.c",
+  "output": "test/CMakeFiles/test45.dir/test45.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test6.dir/includes_C.rsp -g -o CMakeFiles\\test6.dir\\test6.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test6.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test6.c",
+  "output": "test/CMakeFiles/test6.dir/test6.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test8.dir/includes_C.rsp -g -o CMakeFiles\\test8.dir\\test8.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test8.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test8.c",
+  "output": "test/CMakeFiles/test8.dir/test8.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test9.dir/includes_C.rsp -g -o CMakeFiles\\test9.dir\\test9.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test9.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test9.c",
+  "output": "test/CMakeFiles/test9.dir/test9.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test95.dir/includes_C.rsp -g -o CMakeFiles\\test95.dir\\test95.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test95.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test95.c",
+  "output": "test/CMakeFiles/test95.dir/test95.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test10.dir/includes_C.rsp -g -o CMakeFiles\\test10.dir\\test10.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test10.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test10.c",
+  "output": "test/CMakeFiles/test10.dir/test10.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test11.dir/includes_C.rsp -g -o CMakeFiles\\test11.dir\\test11.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test11.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test11.c",
+  "output": "test/CMakeFiles/test11.dir/test11.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test_issue373.dir/includes_C.rsp -g -o CMakeFiles\\test_issue373.dir\\test_issue373.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test_issue373.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test_issue373.c",
+  "output": "test/CMakeFiles/test_issue373.dir/test_issue373.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test_sync_session_present.dir/includes_C.rsp -g -o CMakeFiles\\test_sync_session_present.dir\\test_sync_session_present.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test_sync_session_present.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test_sync_session_present.c",
+  "output": "test/CMakeFiles/test_sync_session_present.dir/test_sync_session_present.c.obj"
+},
+{
+  "directory": "C:/Users/HP/Documents/GitHub/MQTT-Client/build/test",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DWIN32_LEAN_AND_MEAN -D_CRT_SECURE_NO_DEPRECATE @CMakeFiles/test_connect_destroy.dir/includes_C.rsp -g -o CMakeFiles\\test_connect_destroy.dir\\test_connect_destroy.c.obj -c C:\\Users\\HP\\Documents\\GitHub\\MQTT-Client\\Mqtt\\client_lib\\paho.mqtt.c\\test\\test_connect_destroy.c",
+  "file": "C:/Users/HP/Documents/GitHub/MQTT-Client/Mqtt/client_lib/paho.mqtt.c/test/test_connect_destroy.c",
+  "output": "test/CMakeFiles/test_connect_destroy.dir/test_connect_destroy.c.obj"
+}
+]
